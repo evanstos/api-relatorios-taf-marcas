@@ -5,6 +5,8 @@ import companyRouter from './routes/company.route.js';
 import reportRouter from './routes/report.route.js';
 import inssRetValuesRouter from './routes/inssRetValues.route.js';
 import inssValuesRouter from './routes/inssValues.route.js';
+import irrfRetValuesRouter from './routes/irrfRetValues.route.js';
+import irrfValuesRouter from './routes/irrfValues.route.js';
 
 const { readFile, writeFile } = fs;
 
@@ -26,8 +28,17 @@ app.use(
 );
 
 app.use(
+  '/rest/api/rh/esocial/v1/reportEsocialBaseConfer/IrrfRetValues',
+  irrfRetValuesRouter
+);
+
+app.use(
   '/rest/api/rh/esocial/v1/reportEsocialBaseConfer/InssValues',
   inssValuesRouter
+);
+app.use(
+  '/rest/api/rh/esocial/v1/reportEsocialBaseConfer/IrrfValues',
+  irrfValuesRouter
 );
 
 app.listen(3002, async () => {

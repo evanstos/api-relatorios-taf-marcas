@@ -1,0 +1,609 @@
+{
+    "hasNext": false,
+    "items": [
+        {
+            "totalIRRFCompany": {
+                "erpValue": 11263.06,
+                "tafValue": 0.0,
+                "retValue": 0.00
+            },
+            "employees": [
+                {
+                    "cpfNumber": "01242750525",
+                    "name": "RODRIGO MARQUES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "01873550537",
+                    "name": "FERNANDO HENRIQUE VALLE KURTEN",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "2",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-30",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 705.63,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 705.63,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "02615653202",
+                    "name": "SARITA MORAIS",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "02747431401",
+                    "name": "SILVIA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "2",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-30",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 423.14,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 423.14,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "05028461007",
+                    "name": "MARA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "2",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-30",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 423.14,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 423.14,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "16114138775",
+                    "name": "LUMA MOREIRA",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "",
+                            "origin": "S-1210",
+                            "payday": "",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 200.0,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 200.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "16546254000",
+                    "name": "ALESSANDRA LOPES DE ABREU",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "18553425290",
+                    "name": "LEOPOLDO DOS SANTOS DE OLIVEIRA NETO",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "24177716758",
+                    "name": "MORAIS MOREIRA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "26038587349",
+                    "name": "VALDENISE CABRAL DA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "26100626489",
+                    "name": "MARIO TELES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "28305515672",
+                    "name": "EDMUNDO FONTES LADEIRA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "31102415790",
+                    "name": "OTAVIO JONAS MARTINS PIRES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "31545714185",
+                    "name": "ANTONIO CARLOS DE BRAGANÇA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "31639992634",
+                    "name": "ZELIA APARECIDA DA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "35090927839",
+                    "name": "GZROZMZ HZMGLH WV QVHFH",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "38490708088",
+                    "name": "RRA WR ATENDIMENTO",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "44010157895",
+                    "name": "ANA LUIZA DE SOUZA PRATES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "45588600649",
+                    "name": "MARIA JOSE CIDA",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "",
+                            "origin": "S-1210",
+                            "payday": "",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 200.0,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 200.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "46580060069",
+                    "name": "SILVIO LUIS",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "1",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-15",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 33.45,
+                                "retValue": 0.0
+                            }
+                        },
+                        {
+                            "demonstrativeId": "1",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-15",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 317.39,
+                                "retValue": 0.0
+                            }
+                        },
+                        {
+                            "demonstrativeId": "1",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-15",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 7244.67,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 7595.51,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "46625248738",
+                    "name": "JOSÉ DA SILVA RODRIGUES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "47136413168",
+                    "name": "ENIO DA COSTA ANTUNES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "51166068722",
+                    "name": "JOAO DA SILVA JORDAM TELES",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "52312087871",
+                    "name": "MARIA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "53924474060",
+                    "name": "WR Aprendiz",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "54103377437",
+                    "name": "JOAQUIM FARIAS DAMASCENO",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "57994026001",
+                    "name": "WR Funcionáio com Sucessão de vínculo",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "60343818515",
+                    "name": "FABIANO FRANCA MOREIRA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "64071764848",
+                    "name": "JOÃO ALMEIDA CAMPOS COSTA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "64733157053",
+                    "name": "JOAQUIM FARIAS DAMASCENO",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "66113407772",
+                    "name": "LOPES DE ABREU",
+                    "period": "2022-12",
+                    "demonstrative": [
+                        {
+                            "demonstrativeId": "2",
+                            "category": "111",
+                            "origin": "S-1210",
+                            "payday": "2022-12-30",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 1292.5,
+                                "retValue": 0.0
+                            }
+                        },
+                        {
+                            "demonstrativeId": "2",
+                            "category": "101",
+                            "origin": "S-1210",
+                            "payday": "2022-12-30",
+                            "irrfRetention": {
+                                "tafValue": 0.0,
+                                "erpValue": 423.14,
+                                "retValue": 0.0
+                            }
+                        }
+                    ],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 1715.64,
+                        "retValue": 0.00
+                    },
+                    "divergent": true
+                },
+                {
+                    "cpfNumber": "71765134064",
+                    "name": "VIVIAN SANDRO SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "73764534311",
+                    "name": "GUMERCINDO GONÇALVES SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "77398693095",
+                    "name": "RRA FOLHA COM FÉRIAS",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "83138418260",
+                    "name": "MARCELO MATTAR DINIZ",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "83878413157",
+                    "name": "VIVIANE SANDRA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "84600089081",
+                    "name": "VALDENISE CABRAL DA SILVA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "86204024396",
+                    "name": "MATIAS DO AMARAL MENDONÇA",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "87339559051",
+                    "name": "WR Temporário",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                },
+                {
+                    "cpfNumber": "87854416192",
+                    "name": "WELLINGTON SANTOS",
+                    "period": "2022-12",
+                    "demonstrative": [],
+                    "totalIrrfRetention": {
+                        "tafValue": 0.0,
+                        "erpValue": 0.00,
+                        "retValue": 0.00
+                    },
+                    "divergent": false
+                }
+            ]
+        }
+    ]
+}

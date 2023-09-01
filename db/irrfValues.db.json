@@ -1,0 +1,137 @@
+{
+    "hasNext": false,
+    "items": [
+      {
+        "totalIRRFCompany": {
+          "erpvalue": 2745.07,
+          "tafvalue": 3606.1,
+          "retvalue": 3426.18
+        },
+        "employees": [
+          {
+            "cpfNumber": "11209062020",
+            "name": "STAN MARSH",
+            "period": "2023-08",
+            "demonstrative": [
+              {
+                "demonstrativeId": "5",
+                "category": "101",
+                "referencePeriod": "2023-08",
+                "origin": "S-1210",
+                "payday": "2023-08-05",
+                "irrfRetention": {
+                  "tafValue": 1229.37,
+                  "erpValue": 1229.37,
+                  "retValue": 1229.37
+                }
+              },
+              {
+                "demonstrativeId": "1",
+                "category": "101",
+                "referencePeriod": "2023-08",
+                "origin": "S-1210",
+                "payday": "2023-08-20",
+                "irrfRetention": {
+                  "tafValue": 400.77,
+                  "erpValue": 400.77,
+                  "retValue": 400.77
+                }
+              }
+            ],
+            "totalIrrfRetention": {
+              "tafValue": 1630.14,
+              "erpValue": 1630.14,
+              "retValue": 1630.14
+            },
+            "divergent": false
+          },
+          {
+            "cpfNumber": "66478431088",
+            "name": "ERIC CARTMAN",
+            "period": "2023-08",
+            "demonstrative": [
+              {
+                "demonstrativeId": "5",
+                "category": "101",
+                "referencePeriod": "2023-08",
+                "origin": "S-1210",
+                "payday": "2023-08-20",
+                "irrfRetention": {
+                  "tafValue": 514.81,
+                  "erpValue": 514.81,
+                  "retValue": 514.81
+                }
+              },
+              {
+                "demonstrativeId": "9",
+                "category": "701",
+                "referencePeriod": "2023-08",
+                "origin": "S-1210",
+                "payday": "2023-08-20",
+                "irrfRetention": {
+                  "tafValue": 200.05,
+                  "erpValue": 201.8,
+                  "retValue": 200.05
+                }
+              }
+            ],
+            "totalIrrfRetention": {
+              "tafValue": 714.86,
+              "erpValue": 716.61,
+              "retValue": 714.86
+            },
+            "divergent": true
+          },
+          {
+            "cpfNumber": "47502029087",
+            "name": "KENNY MCCORMICK",
+            "period": "2023-08",
+            "demonstrative": [
+              {
+                "demonstrativeId": "5",
+                "category": "101",
+                "referencePeriod": "2023-08",
+                "origin": "S-1200",
+                "payday": "2023-08-20",
+                "irrfRetention": {
+                  "tafValue": 0,
+                  "erpValue": 681.11,
+                  "retValue": 681.11
+                }
+              }
+            ],
+            "totalIrrfRetention": {
+              "tafValue": 0,
+              "erpValue": 681.11,
+              "retValue": 681.11
+            },
+            "divergent": true
+          },
+          {
+            "cpfNumber": "91232595071",
+            "name": "JOVEM ADALBERTO",
+            "period": "2023-08",
+            "demonstrative": [
+              {
+                "demonstrativeId": "TAF",
+                "category": "101",
+                "referencePeriod": "2023-08",
+                "origin": "S-1210",
+                "payday": "2023-08-20",
+                "irrfRetention": {
+                  "tafValue": 0,
+                  "erpValue": 681.11,
+                  "retValue": 0
+                }
+              }
+            ],
+            "totalIrrfRetention": {
+              "tafValue": 0,
+              "erpValue": 681.11,
+              "retValue": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
